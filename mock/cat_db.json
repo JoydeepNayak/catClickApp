@@ -1,0 +1,26 @@
+[
+    {
+        "CatId": "cat_tommey",
+        "CatName": "Tommey",
+        "CatClicks": 3,
+        "CatAge": 3,
+        "CatImage": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "CatNickNames": "Tom"
+    },
+    {
+        "CatId": "cat_tina",
+        "CatName": "Tina",
+        "CatClicks": 2,
+        "CatAge": 2,
+        "CatImage": "https://www.cats.org.uk/media/2197/financial-assistance.jpg?width=1600",
+        "CatNickNames": "Tin"
+    },
+    {
+        "CatId": "cat_tiger",
+        "CatName": "Tiger",
+        "CatClicks": 1,
+        "CatAge": 1,
+        "CatImage": "https://cdn.britannica.com/47/158247-050-70FEB8D4/CC-pet-Copy-Cat-world.jpg",
+        "CatNickNames": "Tig"
+    }
+]
